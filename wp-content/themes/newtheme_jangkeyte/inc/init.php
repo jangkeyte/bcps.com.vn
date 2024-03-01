@@ -11,7 +11,7 @@
  * Enqueue styles, khu vực đăng ký widget, etc.
  */
 //require get_template_directory() . '/inc/functions/function-global.php';
-//require get_template_directory() . '/inc/functions/function-defaults.php';
+require get_template_directory() . '/inc/functions/function-defaults.php';
 require get_template_directory() . '/inc/functions/function-setup.php';
 //require get_template_directory() . '/inc/functions/function-plugins.php';
 
